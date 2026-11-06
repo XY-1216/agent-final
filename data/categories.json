@@ -1,0 +1,37 @@
+[
+  {
+    "id": "beans",
+    "name": "咖啡豆與品種",
+    "en": "BEANS & VARIETIES",
+    "description": "認識咖啡樹、品種與生豆的基本差異。",
+    "number": "01"
+  },
+  {
+    "id": "roasting",
+    "name": "烘焙知識",
+    "en": "ROASTING",
+    "description": "從烘焙程度理解咖啡風味如何形成。",
+    "number": "02"
+  },
+  {
+    "id": "brewing",
+    "name": "沖煮方式",
+    "en": "BREWING METHODS",
+    "description": "探索不同沖煮方法帶來的風味表現。",
+    "number": "03"
+  },
+  {
+    "id": "equipment",
+    "name": "咖啡器材",
+    "en": "COFFEE EQUIPMENT",
+    "description": "認識沖煮咖啡時常見的工具與用途。",
+    "number": "04"
+  },
+  {
+    "id": "tasting",
+    "name": "風味與品飲",
+    "en": "TASTING NOTES",
+    "description": "學習描述咖啡的香氣、酸質與口感。",
+    "number": "05"
+  }
+]
